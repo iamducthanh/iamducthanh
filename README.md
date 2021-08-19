@@ -6,9 +6,9 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://iamducthanh.herokuapp.com/](https://iamducthanh.herokuapp.com/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamducthanh&show_icons=true&locale=en&layout=compact" alt="iamducthanh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboogoel01&show_icons=true&locale=en" alt="khushboogoel01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamducthanh&show_icons=true&locale=en" alt="iamducthanh" /></p>
 
 
 
