@@ -6,9 +6,9 @@
   -->
 - 👨‍💻 You can also check out my portfolio at [https://iamducthanh.github.io/](https://iamducthanh.github.io/)
 
-<p><img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamducthanh&show_icons=true&locale=en&layout=compact" alt="iamducthanh" /></p>
+<p><img align="left" width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamducthanh&show_icons=true&locale=en&layout=compact" alt="iamducthanh" /></p>
 
-<p><img align="right" width="51%" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=iamducthanh&show_icons=true&locale=en" alt="iamducthanh" /></p>
+<p><img align="right" width="52%" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=iamducthanh&show_icons=true&locale=en" alt="iamducthanh" /></p>
 <p>&ensp;</p>
 <img align="center" alt="GIF" src="https://github.com/iamducthanh/iamducthanh/blob/main/39Cg.gif?raw=true" width="100%" style="margin-bottom: 20px;margin-top: 50px;" /> </br></br>
 
