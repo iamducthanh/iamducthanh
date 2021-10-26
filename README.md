@@ -10,7 +10,7 @@
 
 <p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=iamducthanh&show_icons=true&locale=en" alt="iamducthanh" /></p>
 <p>&ensp;</p>
-<img align="center" alt="GIF" src="https://github.com/iamducthanh/iamducthanh/blob/main/39Cg.gif?raw=true" width="100%" style="margin-bottom: 200px;" /> </br></br>
+<img align="center" alt="GIF" src="https://github.com/iamducthanh/iamducthanh/blob/main/39Cg.gif?raw=true" width="100%" style="margin-bottom: 20px;margin-top: 50px;" /> </br></br>
 
 
 
